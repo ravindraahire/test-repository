@@ -1,2 +1,2 @@
 # test-repository
-Test repository master
+Test repository slave
